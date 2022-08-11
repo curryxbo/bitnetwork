@@ -67,7 +67,7 @@ Lib_AddressManager
 </tr>
 <tr>
 <td>
-Proxy__OVM_L1CrossDomainMessenger
+Proxy__Bvm_L1CrossDomainMessenger
 </td>
 <td align="center">
 <a href="https://goerli.etherscan.io/address/0x5086d1eEF304eb5284A0f6720f79403b4e9bE294">
@@ -77,7 +77,7 @@ Proxy__OVM_L1CrossDomainMessenger
 </tr>
 <tr>
 <td>
-Proxy__OVM_L1StandardBridge
+Proxy__Bvm_L1StandardBridge
 </td>
 <td align="center">
 <a href="https://goerli.etherscan.io/address/0x636Af16bf2f682dD3109e60102b8E1A089FedAa8">
@@ -111,7 +111,7 @@ StateCommitmentChain
 </tr>
 <tr>
 <td>
-OVM_L2ToL1MessagePasser
+Bvm_L2ToL1MessagePasser
 </td>
 <td align="center">
 <code>0x4200000000000000000000000000000000000000</code>
@@ -119,7 +119,7 @@ OVM_L2ToL1MessagePasser
 </tr>
 <tr>
 <td>
-OVM_DeployerWhitelist
+Bvm_DeployerWhitelist
 </td>
 <td align="center">
 <code>0x4200000000000000000000000000000000000002</code>
@@ -135,7 +135,7 @@ L2CrossDomainMessenger
 </tr>
 <tr>
 <td>
-OVM_GasPriceOracle
+Bvm_GasPriceOracle
 </td>
 <td align="center">
 <code>0x420000000000000000000000000000000000000F</code>
@@ -151,7 +151,7 @@ L2StandardBridge
 </tr>
 <tr>
 <td>
-OVM_SequencerFeeVault
+Bvm_SequencerFeeVault
 </td>
 <td align="center">
 <code>0x4200000000000000000000000000000000000011</code>
@@ -167,7 +167,7 @@ L2StandardTokenFactory
 </tr>
 <tr>
 <td>
-OVM_L1BlockNumber
+Bvm_L1BlockNumber
 </td>
 <td align="center">
 <code>0x4200000000000000000000000000000000000013</code>
@@ -175,7 +175,7 @@ OVM_L1BlockNumber
 </tr>
 <tr>
 <td>
-OVM_ETH
+Bvm_ETH
 </td>
 <td align="center">
 <code>0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000</code>

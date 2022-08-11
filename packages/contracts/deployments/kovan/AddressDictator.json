@@ -118,7 +118,7 @@
       "CanonicalTransactionChain",
       "StateCommitmentChain",
       "BondManager",
-      "OVM_L1CrossDomainMessenger"
+      "Bvm_L1CrossDomainMessenger"
     ],
     [
       "0x1d6d23989ba6a6e915F0e35BBc574E914d4ed092",

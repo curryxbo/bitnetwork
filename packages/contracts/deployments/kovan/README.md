@@ -67,7 +67,7 @@ Lib_AddressManager
 </tr>
 <tr>
 <td>
-Proxy__OVM_L1CrossDomainMessenger
+Proxy__Bvm_L1CrossDomainMessenger
 </td>
 <td align="center">
 <a href="https://kovan.etherscan.io/address/0x4361d0F75A0186C05f971c566dC6bEa5957483fD">
@@ -77,7 +77,7 @@ Proxy__OVM_L1CrossDomainMessenger
 </tr>
 <tr>
 <td>
-Proxy__OVM_L1StandardBridge
+Proxy__Bvm_L1StandardBridge
 </td>
 <td align="center">
 <a href="https://kovan.etherscan.io/address/0x22F24361D548e5FaAfb36d1437839f080363982B">
@@ -121,7 +121,7 @@ TeleportrDeposit
 </tr>
 <tr>
 <td>
-OVM_L2ToL1MessagePasser
+Bvm_L2ToL1MessagePasser
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0x4200000000000000000000000000000000000000">
@@ -131,7 +131,7 @@ OVM_L2ToL1MessagePasser
 </tr>
 <tr>
 <td>
-OVM_DeployerWhitelist
+Bvm_DeployerWhitelist
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0x4200000000000000000000000000000000000002">
@@ -151,7 +151,7 @@ L2CrossDomainMessenger
 </tr>
 <tr>
 <td>
-OVM_GasPriceOracle
+Bvm_GasPriceOracle
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0x420000000000000000000000000000000000000F">
@@ -171,7 +171,7 @@ L2StandardBridge
 </tr>
 <tr>
 <td>
-OVM_SequencerFeeVault
+Bvm_SequencerFeeVault
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0x4200000000000000000000000000000000000011">
@@ -191,7 +191,7 @@ L2StandardTokenFactory
 </tr>
 <tr>
 <td>
-OVM_L1BlockNumber
+Bvm_L1BlockNumber
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0x4200000000000000000000000000000000000013">
@@ -201,7 +201,7 @@ OVM_L1BlockNumber
 </tr>
 <tr>
 <td>
-OVM_ETH
+Bvm_ETH
 </td>
 <td align="center">
 <a href="https://kovan-bitnetwork.etherscan.io/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000">

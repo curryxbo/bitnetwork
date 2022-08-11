@@ -4,9 +4,9 @@ import (
 	"os"
 )
 
-// UsingOVM is used to enable or disable functionality necessary for the OVM.
-var UsingOVM bool
+// UsingBvm is used to enable or disable functionality necessary for the Bvm.
+var UsingBvm bool
 
 func init() {
-	UsingOVM = os.Getenv("USING_OVM") == "true"
+	UsingBvm = os.Getenv("USING_Bvm") == "true"
 }

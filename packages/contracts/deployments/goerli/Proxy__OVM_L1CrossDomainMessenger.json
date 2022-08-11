@@ -40,7 +40,7 @@
   },
   "args": [
     "0xa6f73589243a6A7a9023b1Fa0651b1d89c177111",
-    "OVM_L1CrossDomainMessenger"
+    "Bvm_L1CrossDomainMessenger"
   ],
   "numDeployments": 1,
   "solcInputHash": "76c096070f4b72a86045eb6ab63709ed",

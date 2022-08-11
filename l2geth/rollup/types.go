@@ -8,9 +8,9 @@ import (
 	"github.com/bitdao-io/bitnetwork/l2geth/core/types"
 )
 
-// OVMContext represents the blocknumber and timestamp
+// BvmContext represents the blocknumber and timestamp
 // that exist during L2 execution
-type OVMContext struct {
+type BvmContext struct {
 	blockNumber uint64
 	timestamp   uint64
 }

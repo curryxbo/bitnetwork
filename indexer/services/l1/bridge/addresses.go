@@ -10,8 +10,8 @@ import (
 var zeroAddr common.Address
 
 var standardContracts = []string{
-	"Proxy__OVM_L1CrossDomainMessenger",
-	"Proxy__OVM_L1StandardBridge",
+	"Proxy__Bvm_L1CrossDomainMessenger",
+	"Proxy__Bvm_L1StandardBridge",
 	"StateCommitmentChain",
 	"CanonicalTransactionChain",
 	"BondManager",
@@ -51,11 +51,11 @@ func (a *Addresses) AddressManager() common.Address {
 }
 
 func (a *Addresses) L1CrossDomainMessenger() common.Address {
-	return a.addrs["Proxy__OVM_L1CrossDomainMessenger"]
+	return a.addrs["Proxy__Bvm_L1CrossDomainMessenger"]
 }
 
 func (a *Addresses) L1StandardBridge() common.Address {
-	return a.addrs["Proxy__OVM_L1StandardBridge"]
+	return a.addrs["Proxy__Bvm_L1StandardBridge"]
 }
 
 func (a *Addresses) StateCommitmentChain() common.Address {

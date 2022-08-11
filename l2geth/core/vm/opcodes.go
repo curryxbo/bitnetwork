@@ -284,7 +284,7 @@ var opCodeToString = map[OpCode]string{
 	CHAINID:     "CHAINID",
 	SELFBALANCE: "SELFBALANCE",
 
-	// OVM opcodes
+	// Bvm opcodes
 	// 0x4B
 	L1BLOCKNUMBER: "L1BLOCKNUMBER",
 
@@ -545,7 +545,7 @@ var stringToOp = map[string]OpCode{
 	"REVERT":         REVERT,
 	"SELFDESTRUCT":   SELFDESTRUCT,
 
-	// OVM opcodes
+	// Bvm opcodes
 	"L1BLOCKNUMBER": L1BLOCKNUMBER,
 }
 
